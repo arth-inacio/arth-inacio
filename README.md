@@ -25,13 +25,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
+
 <!--Div que contém a página do linkedin-->
-<div align="center">  
+### Mídias Sociais:
+<div align="left">  
 <a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 <!--Div que contém a página do instagram-->
-<div align="center">  
+<div align="left">  
 <a href="https://www.instagram.com/arthur.inacio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
   
