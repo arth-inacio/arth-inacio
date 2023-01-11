@@ -1,16 +1,34 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<!--
-**arth-inacio/arth-inacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Efeito de Typing-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!+:%29;+MEU+NOME+É+ARTHUR,Tenho+27+anos;Sou+Desenvolvedor+de+Sistemas;)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!--Div que contém os stats da conta-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Inácio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Stats em troféis-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arth-inacio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<!--Div que contém a página do linkedin-->
+<div align="center">  
+<a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
+
+<!--Div que contém a página do instagram-->
+<div align="center">  
+<a href="https://www.instagram.com/arthur.inacio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+  
+<!--Div que contém o contador de visitas-->
+<div align="center">
+<br><p align="centre"><b>Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arth-inacio}/count.svg" /></p> 
+<br></div>
+ 
+<!--imagem de rodapé-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
