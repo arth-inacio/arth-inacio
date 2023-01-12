@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <!--Efeito de Typing-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!+:%29;+Meu+nome+é+Arthur,tenho+27+anos;Sou+Desenvolvedor+de+Sistemas;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!+:%29;+Meu+nome+é+Arthur,%20tenho+27+anos;Sou+Desenvolvedor+de+Sistemas;)](https://git.io/typing-svg)
 
 <!--Div que contém os stats da conta-->
 
