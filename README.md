@@ -11,7 +11,7 @@
 
 <!--Stats em troféis-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arth-inacio&no-frame=true&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 <!--Competências-->
