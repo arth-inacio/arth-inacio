@@ -15,20 +15,20 @@
 </p>
 
 <!--Competências-->
-### Competências:
+### Competências / Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-### Atualmente Estudando:
+### Atualmente Estudando / Studying:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 
 
 <!--Div que contém a página do linkedin-->
-### Mídias Sociais:
+### Mídias Sociais / Social Media:
 <div align="left">  
 <a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
@@ -40,7 +40,7 @@
   
 <!--Div que contém o contador de visitas-->
 <div align="center">
-<br><p align="centre"><b>Visitas</b></p>  
+<br><p align="centre"><b>Visitas / Visits</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{arth-inacio}/count.svg" /></p> 
 <br></div>
  
