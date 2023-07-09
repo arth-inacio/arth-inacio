@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;)](https://git.io/typing-svg)
 
 <!--Div que contém os stats da conta-->
-
 <div align="center">  
   <img width="49%" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Inácio github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -12,7 +11,7 @@
 
 <!--Stats em troféis-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arth-inacio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&" />
 </p>
 
 <!--Competências-->
@@ -24,7 +23,8 @@
 
 ### Atualmente Estudando:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 
 
 <!--Div que contém a página do linkedin-->
