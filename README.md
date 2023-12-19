@@ -28,17 +28,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-
-<!--Div que contém a página do linkedin-->
-### Mídias Sociais / Social Media:
-<div align="left">  
-<a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
-
-<!--Div que contém a página do instagram-->
-<div align="left">  
-<a href="https://www.instagram.com/arthur.inacio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div>
   
 <!--Div que contém o contador de visitas-->
 <div align="center">
