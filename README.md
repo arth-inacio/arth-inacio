@@ -1,40 +1,46 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<section class="container">
+    <h2>📊 Estatísticas do GitHub</h2>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache-control=no-cache" width="49%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache-control=no-cache" width="41%">
+</section>
 
-<!--Efeito de Typing-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;)](https://git.io/typing-svg)
+<section class="container">
+    <h2>🛠️ Tecnologias e Ferramentas</h2>
+    <h3>💻 Linguagens e Frameworks</h3>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </div>
+    <h3>🛠️ Ferramentas e Versionamento</h3>
+    <div class="badges">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    </div>
+</section>
 
-<!--Div que contém os stats da conta-->
-<div align="center">  
-  <img width="49%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&Cache-Control=no-cache" alt="Arthur Inácio github stats" /> 
-  <img width="41%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache-control=no-cache" />
-</div>
+<section class="container">
+    <h2>📖 O que estou estudando agora?</h2>
+    <ul>
+        <li>Arquitetura de Microsserviços</li>
+        <li>Testes Automatizados</li>
+        <li>CI/CD com GitHub Actions e Docker</li>
+    </ul>
+</section>
 
+<section class="container">
+    <h2>📬 Contato</h2>
+    <a href="[https://www.linkedin.com/in/arth-inacio/](https://www.linkedin.com/in/arthur-in%C3%A1cio/)">
+        <img src="https://img.shields.io/badge/LinkedIn-arth--inacio-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:arthur.inacio3@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-arthur.inacio3@.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</section>
 
-<!--Stats em troféis-->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arth-inacio&no-frame=true&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&cache-control=nocache" />
-</p>
-
-<!--Competências-->
-### Competências / Skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-
-### Atualmente Estudando / Studying:
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-
-
-  
-<!--Div que contém o contador de visitas-->
-<div align="center">
-<br><p align="centre"><b>Visitas / Visits</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arth-inacio}/count.svg" /></p> 
-<br></div>
- 
-<!--imagem de rodapé-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<footer>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</footer>
