@@ -33,7 +33,7 @@
 
 <section class="container">
     <h2>📬 Contato</h2>
-    <a href="[https://www.linkedin.com/in/arth-inacio/](https://www.linkedin.com/in/arthur-in%C3%A1cio/)">
+    <a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/">
         <img src="https://img.shields.io/badge/LinkedIn-arth--inacio-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:arthur.inacio08@gmail.com">
