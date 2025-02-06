@@ -36,8 +36,8 @@
     <a href="[https://www.linkedin.com/in/arth-inacio/](https://www.linkedin.com/in/arthur-in%C3%A1cio/)">
         <img src="https://img.shields.io/badge/LinkedIn-arth--inacio-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:arthur.inacio3@gmail.com">
-        <img src="https://img.shields.io/badge/E--mail-arthur.inacio3@.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:arthur.inacio08@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-arthur.inacio08@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </section>
 
