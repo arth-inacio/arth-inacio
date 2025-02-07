@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
 <section class="container">
     <h2>📊 Estatísticas do GitHub</h2>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache-control=no-cache" width="49%">
@@ -17,13 +18,14 @@
     <h3>🛠️ Ferramentas e Versionamento</h3>
     <div class="badges">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Gitness-00A98F?style=for-the-badge&logo=gitea&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
 </section>
 
 <section class="container">
-    <h2>📖 O que estou estudando agora?</h2>
+    <h2>📚 O que estou estudando agora?</h2>
     <ul>
         <li>Arquitetura de Microsserviços</li>
         <li>Testes Automatizados</li>
@@ -32,7 +34,7 @@
 </section>
 
 <section class="container">
-    <h2>📬 Contato</h2>
+    <h2>📩 Contato</h2>
     <a href="https://www.linkedin.com/in/arthur-in%C3%A1cio/">
         <img src="https://img.shields.io/badge/LinkedIn-arth--inacio-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
