@@ -26,16 +26,7 @@
         <img src="https://img.shields.io/badge/Gitness-00A98F?style=for-the-badge&logo=gitea&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     </div>
-</section>
-
-<section class="container">
-    <h2>📚 O que estou estudando agora?</h2>
-    <ul>
-        <li>Arquitetura de Microsserviços</li>
-        <li>Testes Automatizados</li>
-        <li>CI/CD com GitHub Actions e Docker</li>
-    </ul>
-</section>
+</section><br>
 
 <section class="container">
     <h2>📩 Contato</h2>
@@ -45,7 +36,8 @@
     <a href="mailto:arthur.inacio08@gmail.com">
         <img src="https://img.shields.io/badge/E--mail-arthur.inacio08@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-</section>
+</section><br>
+
 
 <footer>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
