@@ -2,8 +2,8 @@
 
 <section class="container">
     <h2>📊 Estatísticas do GitHub</h2>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache-control=no-cache" width="49%">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache-control=no-cache" width="41%">
+    <img src="https://github-readme-stats.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="41%">
 </section>
 
 <section class="container">
