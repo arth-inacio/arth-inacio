@@ -1,17 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
+<section class="container">
+    <h2>📊 Estatísticas do GitHub</h2>
+</section>
 <p align="center">
   <a href="https://github.com/arth-inacio/arth-inacio/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
     <img src="https://raw.githubusercontent.com/arth-inacio/arth-inacio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
   </a>
 </p>
-
-<section class="container">
-    <h2>📊 Estatísticas do GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=arth-inacio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arth-inacio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="41%">
-</section>
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arth-inacio&theme=dracula" alt="Horário mais produtivo" />
@@ -19,10 +13,6 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arth-inacio&theme=dracula" alt="Detalhes do perfil" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arth-inacio&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
 </p>
 
 <section class="container">
@@ -56,7 +46,3 @@
         <img src="https://img.shields.io/badge/E--mail-arthur.inacio08@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </section><br>
-
-<footer>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</footer>
