@@ -6,14 +6,14 @@
     <img src="https://raw.githubusercontent.com/arth-inacio/arth-inacio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arth-inacio&theme=dracula" alt="Horário mais produtivo" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arth-inacio&theme=dracula" alt="Detalhes do perfil" />
   </a>
-</p>
+</p> -->
 
 <section class="container">
     <h2>🛠️ Tecnologias e Ferramentas</h2>
